@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "495495909284",
+    "project_id": "fuelwise-184d7",
+    "storage_bucket": "fuelwise-184d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495495909284:android:cadd8a5b9f2caaadef7b31",
+        "android_client_info": {
+          "package_name": "com.example.fuelwise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495495909284-9o9ng27hat84al826o8mn1ha25bc0hgl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKKiVCrFfDqEObZy_RdMLE-H8RUKN5Eow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495495909284-9o9ng27hat84al826o8mn1ha25bc0hgl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
