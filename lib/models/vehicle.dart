@@ -13,7 +13,7 @@ class Vehicle {
 factory Vehicle.fromFirestore(DocumentSnapshot doc) {
   final data = doc.data() as Map<String, dynamic>;
   return Vehicle(
-    id: doc.id, // Set the document ID here
+    id: doc.id, 
     make: data['make'] ?? '',
     model: data['model'] ?? '',
     year: data['year'] ?? 0,
